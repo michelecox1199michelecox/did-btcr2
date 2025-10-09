@@ -58,3 +58,5 @@ Included under the `notebooks` folder are a set of Jupyter notebooks that implem
 various features of the **did:btcr2** specification. These are included as helpful reference
 material for those intending to implement the specification. To run the notebooks locally see
 the `notebooks/README.md`.
+
+<!-- Auto-update: 2025-10-10T00:12:38.178975 -->
